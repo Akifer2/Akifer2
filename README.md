@@ -27,7 +27,7 @@
 
 
 
-estudante de programação, atualmente cursando técnico de informática. sempre fui apaixonado por design e tecnologia. meu sonho sempre foi ser programador. 
+> estudante de programação, atualmente cursando técnico de informática. sempre fui apaixonado por design e tecnologia. meu sonho sempre foi ser programador. 
 
 <br/>
 
